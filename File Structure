@@ -1,0 +1,11 @@
+your-repo/
+├── input/
+│   └── alice29.txt    # Input file
+├── output/
+│   ├── cleaned.txt    # Cleaned text
+│   ├── sentences.txt  # Tokenized sentences
+│   ├── words.txt      # Tokenized words
+│   ├── top10words.txt # Top 10 most frequent words
+│   ├── time_compares.txt # Performance comparison (optional)
+├── preprocess_text.py # Python script
+└── README.md          # Instructions
