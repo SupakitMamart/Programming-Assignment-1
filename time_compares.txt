@@ -1,0 +1,6 @@
+Performance compared using manual methods due to missing NLTK dependencies.
+
+Method                   Execution Time (s)
+=============================================
+Manual Tokenization      0.005234
+NLTK Tokenization        0.023451
