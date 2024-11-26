@@ -1,10 +1,10 @@
 # Text Preprocessing and Analysis Script
 
 This script processes and analyzes a given text file. It performs the following tasks:
-1. Cleans the text by removing punctuation and converting it to lowercase.
-2. Tokenizes the text into sentences and words.
-3. Identifies the top 10 most frequent words in the text.
-4. Saves the cleaned text, tokenized data, and word frequency analysis to output files.
+1. A cleaned version of the text.
+2. Lists of tokenized sentences and words.
+3. A printed table of the top 10 most frequent words and their counts..
+4. A tabular compare framework performance.
 
 ## Requirements
 - Python 3.x
