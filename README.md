@@ -12,7 +12,7 @@ This script processes and analyzes a given text file. It performs the following 
 
 ## Directory Structure
 ```plaintext
-your-repo/
+my-repo/
 ├── input/
 │   └── alice29.txt    # Input file (replace with your own)
 ├── output/            # Output directory (generated automatically)
